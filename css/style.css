@@ -1,0 +1,32 @@
+* {
+  /* margin: 0; */
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  /* background-color: teal; */
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+button {
+  text-decoration: none;
+  width: 250px;
+  height: 80px;
+  background-color: blue;
+  color: #fff;
+  border: 2px solid black;
+}
+button:hover {
+  background-color: green;
+}
+p {
+  font-size: 32px;
+  margin: 32px;
+}
